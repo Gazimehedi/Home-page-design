@@ -1,0 +1,755 @@
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+    html {
+        font-size: 51%;
+    }
+    header {
+        height: 50vh;
+    }
+    .row {
+        width: 95%;
+    }
+    .carousel {
+        width: 95%;
+    }
+    .showcase-section #frame {
+        left: 343px;
+    }
+    .showcase-section {
+        height: 65vh;
+    }
+    img.ring {
+        width: 360px;
+        top: 18px;
+        right: -55px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .row {
+        width: 95%;
+    }
+    .little-description {
+        width: 90%;
+    }
+    h2 {
+        font-size: 2.5rem;
+    }
+    header {
+        height: 70vh;
+    }
+    header h1 {
+        font-size: 2.9rem;
+    }
+    .header-ring {
+        width: 32rem;
+    }
+    .main-nav {
+        display: none;
+        width: 100%;
+        margin-left: 0;
+        background: #000;
+        position: absolute;
+        z-index: 999;
+        top: 10rem;
+        left: 0;
+    }
+    .main-nav li {
+        text-align: center;
+        display: block;
+        margin-top: 0;
+        margin: 2rem 0;
+    }
+    .main-nav li:last-child {
+        padding: 0;
+        background: #000;
+        float: none;
+        margin-left: 0;
+        margin-top: 0;
+        margin: 2rem 0;
+    }
+    .main-nav li a i,
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        font-size: 2rem;
+    }
+    .main-nav li:last-child a {
+        font-size: 2rem;
+    }
+    .main-nav li a i::after {
+        content: "Search";
+        margin-left: 0.5rem;
+    }
+    .user-btn {
+        margin-top: 4.5rem;
+        margin-right: 1.5rem;
+    }
+    .nev-bar {
+        display: block;
+    }
+    .mobile1 {
+        margin-top: 20rem;
+    }
+    .mobile2 {
+        margin-top: 9rem;
+    }
+    .row .middle {
+        display: none;
+    }
+    .about-section video {
+        width: 34rem;
+    }
+    .about-description {
+        margin-right: 0;
+    }
+    .showcase-section #frame {
+        left: 22.6rem;
+        top: 20.6rem;
+    }
+    .showcase-section {
+        height: 80vh;
+    }
+    .span_1_of_3 {
+        width: 49%;
+    }
+    .carousel {
+        width: 83rem;
+    }
+    .cursel {
+        top: 15rem;
+    }
+    .features-section .medel {
+        margin-left: 1.6%;
+    }
+    .features-section .mans {
+        margin-left: 0;
+    }
+    .features-section .globe {
+        margin-left: 0;
+    }
+    .col.last-price {
+        margin-left: 15rem;
+        width: 60%;
+    }
+    .table ul li {
+        margin-left: 5rem;
+    }
+    .col.last-price .table ul li {
+        margin-left: 9rem;
+    }
+    .business a {
+        left: 14rem;
+    }
+    .work-img .work-mobile {
+        position: initial;
+        width: 19rem;
+    }
+    .work-img .work-ring {
+        display: none;
+    }
+    .work-content {
+        width: 37rem;
+        padding: 1rem 1rem;
+        top: -3.1rem;
+        right: -33rem;
+    }
+    .work-content.content2 {
+        top: 13rem;
+        right: -33rem;
+    }
+    .work-content.content3 {
+        top: 29rem;
+        right: -33rem;
+    }
+    .listing {
+        top: -0.9rem;
+    }
+    .howItwork-section .span_1_of_4 {
+        display: none;
+    }
+    .subscribe-section h1 {
+        font-size: 3.2rem;
+    }
+    .subscribe-section .little-description {
+        width: 90%;
+    }
+    .subscribe-section input {
+        padding: 1.1rem 2rem;
+    }
+    .subscribe-section label {
+        right: -20px;
+        padding: 1.2rem 4rem;
+    }
+    .questions-text {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .questions-text p {
+        margin-left: 0;
+        padding: 0;
+    }
+    #contact-br {
+        display: none;
+    }
+    .contact-form {
+        margin-top: 2rem;
+        float: none;
+        margin: auto;
+    }
+    .contact-form input[type="email"],
+    .contact-form input[type="text"] {
+        padding: 1rem 1rem;
+    }
+    .contact-form textarea {
+        height: 16rem;
+    }
+    .footer-items .span_1_of_4 {
+        width: 49%;
+    }
+    .footer-items .footer-text {
+        float: left;
+    }
+    .footer-items .footer-text li {
+        margin-left: 2rem;
+    }
+    .col.span_1_of_4.last-widget {
+        margin-left: 0;
+    }
+    .col.span_1_of_4.box.custom-link h3 {
+        text-align: center;
+    }
+    .footer-items .custom-link ul li {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .row {
+        width: 96%;
+    }
+    section {
+        padding: 3rem 0;
+    }
+    .span_1_of_3 {
+        width: 100%;
+    }
+    .little-description {
+        width: 100%;
+        margin-top: 1rem;
+    }
+    h2 {
+        font-size: 2.5rem;
+    }
+    header {
+        height: 70vh;
+    }
+    header h1 {
+        font-size: 2.9rem;
+        text-align: center;
+        margin-top: 1rem;
+        width: 100%;
+    }
+    header p {
+        width: 100%;
+        text-align: center;
+    }
+    .header-btn {
+        text-align: center;
+    }
+    .logo {
+        margin-left: 0.5rem;
+        margin-top: 1rem;
+    }
+    .btn {
+        padding: 0.8rem 1.5rem;
+    }
+    .header-ring {
+        width: 27rem;
+    }
+    .main-nav {
+        display: none;
+        width: 100%;
+        margin-left: 0;
+        background: #000;
+        position: absolute;
+        z-index: 999;
+        top: 10rem;
+        left: 0;
+    }
+    .main-nav li {
+        text-align: center;
+        display: block;
+        margin-top: 0;
+        margin: 2rem 0;
+    }
+    .main-nav li:last-child {
+        padding: 0;
+        background: #000;
+        float: none;
+        margin-left: 0;
+        margin-top: 0;
+        margin: 2rem 0;
+    }
+    .main-nav li a i,
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        font-size: 2rem;
+    }
+    .main-nav li:last-child a {
+        font-size: 2rem;
+    }
+    .main-nav li a i::after {
+        content: "Search";
+        margin-left: 0.5rem;
+    }
+    .user-btn {
+        margin-top: 4.5rem;
+        margin-right: 1.5rem;
+    }
+    .nev-bar {
+        display: block;
+        margin-right: 2.7rem;
+        margin-top: 2rem;
+    }
+    .row .middle {
+        display: none;
+    }
+    .about-section video {
+        width: 34rem;
+        margin-top: 0;
+    }
+    .about-description {
+        margin-right: 0;
+        margin-top: 1rem;
+    }
+    .about-btn {
+        float: none;
+        margin-top: 1rem;
+    }
+    .apps-section h1 {
+        font-size: 3.2rem;
+    }
+    .app-store-img {
+        padding: 1rem 0;
+        width: 60%;
+    }
+    .showcase-section #frame {
+        left: 8.8rem;
+        top: 15.6rem;
+        width: 252px;
+        height: 373px;
+    }
+    .showcase-section {
+        height: 88vh;
+    }
+    .carousel {
+        width: 59rem;
+        top: 6rem;
+        margin-left: -418px;
+    }
+    .carousel .item {
+        width: 200px;
+        height: 280px;
+    }
+    .controls {
+        top: 54.5rem;
+        left: 52%;
+    }
+    .features-section .little-description {
+        margin-bottom: 2rem;
+    }
+    .features-section .box {
+        margin: 1rem 0;
+    }
+    .features-section .medel {
+        margin-left: 1.6%;
+    }
+    .features-section .mans {
+        margin-left: 0;
+    }
+    .features-section .globe {
+        margin-left: 0;
+    }
+    .table ul li {
+        margin-left: 5rem;
+    }
+    .table a {
+        left: 33%;
+    }
+    .work-img .work-mobile {
+        position: initial;
+        width: 26rem;
+        height: 40rem;
+    }
+    .work-img .work-ring {
+        display: none;
+    }
+    .work-img {
+        position: initial;
+        margin-top: 1rem;
+    }
+    .work-content {
+        width: 100%;
+        padding: 1rem 1rem;
+        top: -3.1rem;
+        right: -33rem;
+        text-align: center;
+        margin: 2rem 0;
+        position: initial;
+    }
+    .work-content.content2 {
+        top: 13rem;
+        right: -33rem;
+    }
+    .work-content.content3 {
+        top: 29rem;
+        right: -33rem;
+    }
+    .listing {
+        top: -0.9rem;
+        display: none;
+    }
+    .howItwork-section .span_1_of_4 {
+        display: none;
+    }
+    .subscribe-section h1 {
+        font-size: 2.5rem;
+    }
+    .subscribe-section .little-description {
+        width: 100%;
+    }
+    .subscribe-section .subscribe-feld {
+        margin: 0;
+    }
+    .subscribe-last-space {
+        display: none;
+    }
+    .subscribe-section input {
+        padding: 1.1rem 2rem;
+    }
+    .subscribe-section label {
+        right: 8px;
+        padding: 1.2rem 4rem;
+    }
+    .questions-text {
+        width: 100%;
+        float: none;
+        text-align: center;
+        margin-top: 1rem;
+    }
+    .questions-text p {
+        margin-left: 0;
+        padding: 0;
+    }
+    #contact-br {
+        display: none;
+    }
+    .contact-form {
+        margin-top: 2rem;
+        float: none;
+        margin: auto;
+        width: 98%;
+    }
+    .contact-form input[type="email"],
+    .contact-form input[type="text"] {
+        padding: 1rem 1rem;
+    }
+    .contact-form textarea {
+        height: 16rem;
+        width: 94%;
+    }
+    .footer-items .span_1_of_4 {
+        width: 100%;
+    }
+    .footer-items h3 {
+        text-align: center;
+    }
+    .footer-items .custom-link ul li {
+        text-align: center;
+    }
+    .footer-items .footer-icon {
+        margin-left: 12%;
+    }
+    .footer-items .socal_icon {
+        max-width: 100%;
+        padding-left: 12%;
+    }
+    .footer-items .footer-text {
+        float: left;
+    }
+    .footer-items .footer-text li {
+        margin-left: 1rem;
+    }
+    .footer-items {
+        padding-bottom: 0.1rem;
+    }
+    footer {
+        padding: 2rem 0;
+        font-size: 1.5rem;
+    }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .row {
+        width: 96%;
+    }
+    section {
+        padding: 3rem 0;
+    }
+    .span_1_of_3 {
+        width: 100%;
+    }
+    .little-description {
+        width: 100%;
+        margin-top: 1rem;
+    }
+    h2 {
+        font-size: 2.5rem;
+    }
+    header {
+        height: 70vh;
+    }
+    header h1 {
+        font-size: 2.9rem;
+        text-align: center;
+        margin-top: 1rem;
+        width: 100%;
+    }
+    header p {
+        width: 100%;
+        text-align: center;
+    }
+    .header-btn {
+        text-align: center;
+    }
+    .logo {
+        margin-left: 0.5rem;
+        margin-top: 1rem;
+    }
+    .btn {
+        padding: 0.8rem 1.5rem;
+    }
+    .header-ring {
+        width: 27rem;
+    }
+    .main-nav {
+        display: none;
+        width: 100%;
+        margin-left: 0;
+        background: #000;
+        position: absolute;
+        z-index: 999;
+        top: 10rem;
+        left: 0;
+    }
+    .main-nav li {
+        text-align: center;
+        display: block;
+        margin-top: 0;
+        margin: 2rem 0;
+    }
+    .main-nav li:last-child {
+        padding: 0;
+        background: #000;
+        float: none;
+        margin-left: 0;
+        margin-top: 0;
+        margin: 2rem 0;
+    }
+    .main-nav li a i,
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        font-size: 2rem;
+    }
+    .main-nav li:last-child a {
+        font-size: 2rem;
+    }
+    .main-nav li a i::after {
+        content: "Search";
+        margin-left: 0.5rem;
+    }
+    .user-btn {
+        margin-top: 4.5rem;
+        margin-right: 1.5rem;
+    }
+    .nev-bar {
+        display: block;
+        margin-right: 2.7rem;
+        margin-top: 2rem;
+    }
+    .mobile1 {
+        display: none;
+    }
+    .mobile2 {
+        display: none;
+    }
+    .row .middle {
+        display: none;
+    }
+    .about-section video {
+        width: 34rem;
+        margin-top: 0;
+    }
+    .about-description {
+        margin-right: 0;
+        margin-top: 1rem;
+    }
+    .about-btn {
+        float: none;
+        margin-top: 1rem;
+    }
+    .apps-section h1 {
+        font-size: 3.2rem;
+    }
+    .app-store-img {
+        padding: 1rem 0;
+        width: 60%;
+    }
+    .showcase-section #frame {
+        left: 5.9rem;
+        top: 15.4rem;
+        width: 255px;
+        height: 373px;
+    }
+    .showcase-section {
+        height: 88vh;
+    }
+    .carousel {
+        width: 59rem;
+        top: 6rem;
+        margin-left: -418px;
+    }
+    .carousel .item {
+        width: 200px;
+        height: 280px;
+    }
+    .controls {
+        top: 52.5rem;
+    }
+    .features-section .little-description {
+        margin-bottom: 2rem;
+    }
+    .features-section .box {
+        margin: 1rem 0;
+    }
+    .features-section .medel {
+        margin-left: 1.6%;
+    }
+    .features-section .mans {
+        margin-left: 0;
+    }
+    .features-section .globe {
+        margin-left: 0;
+    }
+    .table ul li {
+        margin-left: 5rem;
+    }
+    .work-img .work-mobile {
+        position: initial;
+        width: 26rem;
+        height: 40rem;
+    }
+    .work-img .work-ring {
+        display: none;
+    }
+    .work-img {
+        position: initial;
+        margin-top: 1rem;
+    }
+    .work-content {
+        width: 100%;
+        padding: 1rem 1rem;
+        top: -3.1rem;
+        right: -33rem;
+        text-align: center;
+        margin: 2rem 0;
+        position: initial;
+    }
+    .work-content.content2 {
+        top: 13rem;
+        right: -33rem;
+    }
+    .work-content.content3 {
+        top: 29rem;
+        right: -33rem;
+    }
+    .listing {
+        top: -0.9rem;
+        display: none;
+    }
+    .howItwork-section .span_1_of_4 {
+        display: none;
+    }
+    .subscribe-section h1 {
+        font-size: 2.5rem;
+    }
+    .subscribe-section .little-description {
+        width: 100%;
+    }
+    .subscribe-section .subscribe-feld {
+        margin: 0;
+    }
+    .subscribe-last-space {
+        display: none;
+    }
+    .subscribe-section input {
+        padding: 1.1rem 2rem;
+    }
+    .subscribe-section label {
+        right: 8px;
+        padding: 1.2rem 4rem;
+    }
+    .questions-text {
+        width: 100%;
+        float: none;
+        text-align: center;
+        margin-top: 1rem;
+    }
+    .questions-text p {
+        margin-left: 0;
+        padding: 0;
+    }
+    #contact-br {
+        display: none;
+    }
+    .contact-form {
+        margin-top: 2rem;
+        float: none;
+        margin: auto;
+        width: 98%;
+    }
+    .contact-form input[type="email"],
+    .contact-form input[type="text"] {
+        padding: 1rem 1rem;
+    }
+    .contact-form textarea {
+        height: 16rem;
+        width: 94%;
+    }
+    .footer-items .span_1_of_4 {
+        width: 100%;
+    }
+    .footer-items h3 {
+        text-align: center;
+    }
+    .footer-items .custom-link ul li {
+        text-align: center;
+    }
+    .footer-items .footer-icon {
+        margin-left: 12%;
+    }
+    .footer-items .socal_icon {
+        max-width: 100%;
+        padding-left: 12%;
+    }
+    .footer-items .footer-text {
+        float: left;
+    }
+    .footer-items .footer-text li {
+        margin-left: 1rem;
+    }
+    .footer-items {
+        padding-bottom: 0.1rem;
+    }
+    footer {
+        padding: 2rem 0;
+        font-size: 1.5rem;
+    }
+}
